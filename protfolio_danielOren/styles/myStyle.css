@@ -76,12 +76,12 @@ footer {
 
 #facebook {
     background-image: url('../images/facebook new.svg');
-    width: 75px;
+    width: 77px;
     height: 78px;
     background-size: 239px;
     display: inline-block;
-    background-position-x: -4px;
-    background-repeat:no-repeat;
+    background-position-x: -3px;
+    background-repeat: no-repeat;
 }
 
     #facebook:hover {
@@ -89,9 +89,9 @@ footer {
     }
 
     #facebook:active {
-    background-position-x: 79px;
-}
-  
+        background-position: right;
+    }
+
 
 #gmail {
     background-image: url('../images/MAIL new.svg');
