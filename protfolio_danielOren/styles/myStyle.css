@@ -81,6 +81,7 @@ footer {
     background-size: 239px;
     display: inline-block;
     background-position-x: -4px;
+    background-repeat:no-repeat;
 }
 
     #facebook:hover {
