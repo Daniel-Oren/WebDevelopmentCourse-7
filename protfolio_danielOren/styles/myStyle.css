@@ -155,9 +155,13 @@ h2 {
 #audio {
     margin-top: 15px;
     margin-right: 50px;
+  
+}
+
+#pLogo {
     border-bottom: solid #f7f7f7 1px;
-    padding-bottom: 30px;
-    width: 861px;
+    padding-bottom: 48px;
+    width: 865px;
 }
 
 #tik {
